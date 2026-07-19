@@ -44,8 +44,8 @@ That combination is what I do best: turning both product ideas *and* messy field
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-abughali&show_icons=true&theme=default&hide_border=true" alt="Mahmoud's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-abughali&hide_border=true" alt="Mahmoud's GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-abughali&show_icons=true&hide_border=true&count_private=true" alt="Mahmoud's GitHub stats" height="165"/>
 </p>
 
 ---
